@@ -13,6 +13,7 @@ This project showcases a set of structured SQL queries written against the class
 - pgAdmin 4
 
 ## File structure
+
 queries/
 ├── 01_basic_select.sql
 ├── 02_filtering_data.sql
