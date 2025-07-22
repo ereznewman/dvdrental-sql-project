@@ -1,4 +1,7 @@
 # dvdrental-sql-project
+(This project uses the publicly available **dvdrental** sample PostgreSQL database.  
+You can find it by searching “dvdrental sample database”)
+
 **SQL-based analysis of the dvdrental database, exploring customer behavior, film popularity, and store performance.**
 
 This project showcases a set of structured SQL queries written against the classic `dvdrental` PostgreSQL sample database. The goal is to demonstrate practical SQL skills through realistic data scenarios, including:
