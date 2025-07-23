@@ -2,6 +2,8 @@
 
 This project showcases structured SQL queries based on the publicly available `dvdrental` PostgreSQL sample database. 
 
+Goals: 
+
 - Identifying top customers by rental frequency and total payments  
 - Analyzing most rented films by category and language  
 - Evaluating store performance across locations  
