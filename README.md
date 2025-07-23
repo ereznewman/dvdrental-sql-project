@@ -1,6 +1,6 @@
 **SQL-based analysis of the dvdrental database, exploring customer behavior, film popularity, and store performance.**
 
-This project showcases a set of structured SQL queries based on the publicly available `dvdrental` PostgreSQL sample database. It demonstrates practical SQL skills through realistic data scenarios, including:
+This project showcases structured SQL queries based on the publicly available `dvdrental` PostgreSQL sample database. 
 
 - Identifying top customers by rental frequency and total payments  
 - Analyzing most rented films by category and language  
