@@ -15,10 +15,8 @@ Goals:
 
 ## File structure
 
-queries/
-├── 01_basic_select.sql
-├── 02_filtering_data.sql
-├── 03_joins.sql
-├── 04_aggregations.sql
-├── 05_nested_queries.sql
-├── 06_final_report.sql
+01_top_customers.sql — Analyze rental frequency and spending behavior
+02_film_rentals_analysis.sql — Explore most rented films by category and language
+03_store_performance.sql — Evaluate how stores and staff perform
+04_revenue_and_staff_trends.sql — Visualize revenue over time and staff activity
+05_views_and_final_report.sql — Create views and final summarized reports
