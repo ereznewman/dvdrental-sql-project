@@ -1,4 +1,4 @@
---What is the total revenue generated per month?
+--What is the total revenue generated per year and month?
  
 SELECT 
 EXTRACT(month FROM payment_date) AS Month,
