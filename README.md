@@ -23,4 +23,3 @@ Goals:
 
 -04_revenue_and_staff_trends.sql — Visualize revenue over time and staff activity
 
--05_views_and_final_report.sql — Create views and final summarized reports
